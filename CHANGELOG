@@ -1,1 +1,35 @@
+changelog
+---------
+
+Current Release:    FireAN 0.0 (December 10, 2025)
+
+-------------------------------------------------------------------------
+Pre-Releases:       FireAN Setup (December 10, 2025)
+-------------------------------------------------------------------------
+Date Created:            (December 10, 2025)
+-------------------------------------------------------------------------
+Upcoming Release:     FireAN 0.01 (December 10, 2025)
+-------------------------------------------------------------------------
+KEY CHANGES:
+ - New folders: 
+    - .requirements
+    - .training
+    - .web
+    - .testing
+    - .docs
+    - .data
+    - .results
+    - .github
+ - New Markdown Files:
+    - Contributers
+    - Setup
+    - History
+    - README
+    - Roadmap
+    - SPECIALTIES
+    - Varia
+
+Detailed changes:
+
+WIP: Last update with commit from 02-Nov-2024
 
