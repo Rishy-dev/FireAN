@@ -8,5 +8,5 @@ Datasets show possible user inputs and the specified outputs for each one of the
 
 **How it "learns"**
 
-This proccess of an AI learning is called MACHINE LEARNING. The name implies literally what is is used for. The machine simply "learns". In this case, this machine is AI. There are simple machine learning tools like [https://teachablemachine.withgoogle.com/], or [https://machinelearningforkids.co.uk/]. Then, there are more complicated ones like TenserFlow, or Pandas. Either way, the result you get is similar.
+This proccess of an AI learning is called MACHINE LEARNING. The name implies literally what is is used for. The machine simply "learns". In this case, this machine is AI. There are simple machine learning tools like [https://teachablemachine.withgoogle.com], or [https://machinelearningforkids.co.uk]. Then, there are more complicated ones like TenserFlow, or Pandas. Either way, the result you get is similar.
 
